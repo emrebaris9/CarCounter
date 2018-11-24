@@ -85,7 +85,7 @@ Fonksiyon, belirtilen 2 boyutlu nokta seti için minimum sağ-up sınırlama dik
  	İki dizi arasındaki veya bir dizi ve bir skaler arasındaki eleman başına mutlak farkını hesaplar. Aynı boyut ve türe sahip olduklarında iki dizi arasındaki mutlak fark:
 
 ## 2.3.5 Video  
-###### Video Capture
+ Video Capture
 	Video dosyalarından, görüntü dizilerinden veya kameralardan video yakalama için sınıf. Sınıf, kameralardan video çekmek veya video dosyalarını ve görüntü dizilerini okumak için C ++ API sağlar. Esasen, video manipülasyonu için gerekli tüm işlevler VideoCapture sınıfına entegre edilmiştir. 
 Bir video birbirini izleyen resimlerden oluşur ve bunlar literatürde çerçeveler olarak adlandırılır. Temel olarak sürekli görüntülerin bir koleksiyonudur Bir video dosyasının kare hızı, iki çerçeve arasında ne kadar süre geçtiğiyle belirlenir. Videodan kareleri çıkarmak için önce bu videoyu giriş akışına eklememiz ve sonra gerektiğinde bunları almamız gerekir.
 VideoCapture capture = new VideoCapture("C:\\Users\\Emre\\Masaüstü\\Otoyol.mp4");
