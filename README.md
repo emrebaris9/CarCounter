@@ -1,6 +1,10 @@
 # CarCounter
 Car Counter in Java
 
+###Example BackgroundSubtractorMOG2
+![mgie](https://user-images.githubusercontent.com/28316968/49211504-c6de3a80-f3d0-11e8-89c0-d724835187c7.PNG)
+
+![whatsapp image 2018-05-05 at 02 12 50](https://user-images.githubusercontent.com/28316968/49211505-c6de3a80-f3d0-11e8-8520-ad178f15f911.jpeg)
 # OpenCv Kurulumu
 	Libraries kısmında add library penceresini açarak openCV kütüphanemizi ekliyoruz. Ardından OpenCV dosyasının içindeki java dosyasının içindeki jar dosyasının hedef adresini seçip, kütüphanesini ekliyoruz. System.load( )’ı ana metoda ekleyerek, kütüphanedeki java için dll dosyalarının hedef adresini çekip projeye ekliyouz. Çevre değişkenleri ile uğraşmamak için bu metod kullanılıyor.
 
